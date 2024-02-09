@@ -1,7 +1,10 @@
 # JS Drum Kit
 
 This is a simple JavaScript Drum Kit project that allows users to play drum sounds using keyboard keys.
-[Click here to watch the video demo](JS-Drum-Kit-Live-Demo.mp4)
+
+[Click here to watch the video demo with sound](JS-Drum-Kit-Live-Demo.mp4)
+
+![GIF Preview](JS-Drum-Kit.gif)
 
 ## Features
 
